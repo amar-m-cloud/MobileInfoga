@@ -1,2 +1,8 @@
 __pycache__
 session.session
+.env
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+*.env
